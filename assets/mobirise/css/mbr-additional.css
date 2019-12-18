@@ -1299,6 +1299,38 @@ section.lazy-placeholder:after {
 .cid-rKX172RIuH .mbr-section-btn {
   color: #232323;
 }
+.cid-rKXCnwlBvQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rKXCnwlBvQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rKXE3Qqnmu {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cid-rKXE3Qqnmu .image-block {
+  margin: auto;
+}
+.cid-rKXE3Qqnmu .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rKXE3Qqnmu figcaption {
+  position: relative;
+}
+.cid-rKXE3Qqnmu figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rKXE3Qqnmu .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rKijVg0CU9 {
   padding-top: 30px;
   padding-bottom: 30px;
